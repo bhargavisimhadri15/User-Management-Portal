@@ -4,7 +4,7 @@ A modern, responsive React application built to manage user data with a focus on
 
 ## 🚀 Live Demo
 
-**Link:** [Insert your Vercel/Netlify URL here]
+**Link:** https://github.com/bhargavisimhadri15/User-Management-Portal
 
 ## ✨ Key Features
 
@@ -35,7 +35,7 @@ The core requirement of this project was to ensure that adding new fields requir
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-username/react-crud.git
+git clone https://github.com/bhargavisimhadri15/User-Management-Portal
 
 ```
 
